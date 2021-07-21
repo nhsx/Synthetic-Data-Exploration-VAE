@@ -1,3 +1,5 @@
+*Output update coming in September 2021*
+
 # Synthetic Data Exploration: 
 ## Variational AutoEncoder for Healthcare Data
 
